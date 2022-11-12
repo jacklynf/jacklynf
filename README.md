@@ -9,5 +9,5 @@ My current software- and engineering-related coursework is focusing on:
 - HTTP/HTTPS requests
 - authentication
 
-I would be happy to answer any questions regarding any of the programs here. I contributed or had full reign over everything you see here!
+I would be happy to answer any questions regarding anything on my profile. I contributed or had full reign over everything you see here!
 
