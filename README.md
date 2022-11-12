@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome! :wave:
 
-<!--
-**jacklynf/jacklynf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I created this profile to offer a sneak-peek into a few of the more interesting programs that I've worked on.
 
-Here are some ideas to get you started:
+As my skills grow, so, too, will the number of repos here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, my software-related coursework is focusing on:
+- network protocols
+- APIs
+- operating in virtual environments
+- HTTP/HTTPS requests
+- authentication
+
+I would be happy to answer any questions regarding any of the programs here. I had a hand or full reign over everything you see here!
+
