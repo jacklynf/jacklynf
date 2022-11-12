@@ -8,6 +8,7 @@ Currently, I am a junior at the University of Southern California pursuing a Bac
 - operating in virtual environments
 - HTTP/HTTPS requests
 - authentication
+- time complexities
 
 I would be happy to answer any questions regarding anything on my profile. I contributed or had full reign over everything you see here!
 
