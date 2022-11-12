@@ -1,10 +1,8 @@
 ## Welcome! :wave:
 
-I created this profile to offer a sneak-peek into a few of the more fun and advanced programs that I've worked on.
+I created this profile to offer a sneak-peek into a few of the more fun and advanced programs that I've worked on. As my skills grow, so, too, will the number of repos here!
 
-As my skills grow, so, too, will the number of repos here!
-
-Currently, my software- and engineering-related coursework is focusing on:
+My current software- and engineering-related coursework is focusing on:
 - network protocols
 - APIs
 - operating in virtual environments
