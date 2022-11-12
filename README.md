@@ -1,6 +1,6 @@
 ## Welcome! :wave:
 
-I created this profile to offer a sneak-peek into a few of the more interesting programs that I've worked on.
+I created this profile to offer a sneak-peek into a few of the more fun and advanced programs that I've worked on.
 
 As my skills grow, so, too, will the number of repos here!
 
